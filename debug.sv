@@ -1,0 +1,7 @@
+
+`define FETCH_DEBUG
+`define DECODE_DEBUG
+`define EXECUTE_DEBUG
+`define WRITEBACK_DEBUG
+`define MEMACCESS_DEBUG
+`define CONTROLLER_DEBUG
